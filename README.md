@@ -1,10 +1,10 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name:Sharad Yadav 
+- University Roll No.:1900290400117
+- Branch:M.E.
+- Section:C
+- Preferred Programming Language:Python
 
 ## Coding Profiles
 - LeetCode: [user1261hf](https://leetcode.com/user1261hf/)
